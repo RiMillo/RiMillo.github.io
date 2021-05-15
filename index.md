@@ -1,6 +1,13 @@
 # Me :v:
 I’m @RiMillo (Riccardo M.), hi y'all! :wave: I'm :it: and :fr:, currently based in Paris.
 
+## Resumes
+For a full formal presentation, have a look at my resume:
+
+* English :uk: [here](./CV_ENG.pdf)
+* Italiano :it: [qui](./CV_ITA.pdf)
+* Français :fr: [par ici](./CV_FRA.pdf)
+
 ## What I do
 I have a PhD in Applied Mathematics (Numerical Analysis for Fluid Dynamics) from CERMICS (ENPC, France :fr:) and EDF. I am an alumnus of Politecnico di Milano :it: (Ingegneria Matematica) and Ecole polytechnique :fr:. I am currently a Post-Doc fellow at CEREA (ENPC, France :fr:) and part of the Sciences^2024 program which uses physics and mathematics to give a scientific characterization of some sports and help athletes in their training on the road towards Paris 2024 Olympic Games. With my team, we are focusing on archery: find the best arrow for a given atmospheric setting.
 
