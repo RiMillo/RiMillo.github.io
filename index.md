@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Me :v:
+I’m @RiMillo (Riccardo M.), hi y'all! :wave: I'm :it: and :fr:, currently based in Paris.
 
-You can use the [editor on GitHub](https://github.com/RiMillo/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What I do
+I have a PhD in Applied Mathematics (Numerical Analysis for Fluid Dynamics) from CERMICS (ENPC, France :fr:) and EDF. I am an alumnus of Politecnico di Milano :it: (Ingegneria Matematica) and Ecole polytechnique :fr:. I am currently a Post-Doc fellow at CEREA (ENPC, France :fr:) and part of the Sciences^2024 program which uses physics and mathematics to give a scientific characterization of some sports and help athletes in their training on the road towards Paris 2024 Olympic Games. With my team, we are focusing on archery: find the best arrow for a given athmospheric setting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What makes me dream
+As you guessed, I'm passionate about Mathematics and sports and I hope to make a job out of this. I have a special interest for Fluid Dynamics and my dream is to work in a team responsible for the design of a F1 race car :red_car::checkered_flag: or a sailboat :sailboat:.
 
-### Markdown
+## What I can do
+I have a Engineering background (BSc and 2x MSc) with two main axes: mathematics and computer sciences. I like coding. My language of predilection is `C/C++` which I used in numerous scientific projects and for my PhD. I try to learn new stuff every day, currently exploring `python` and `GO`. I have heard all the best about `Rust` and I plan to have a look at it, too. FYI, I like `LaTeX`, too.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What I would like to do
+I have already told you about [my dream jobs](#what_makes_me_dream). I'd like to work in the research and development branch of a company as developer of a scientific tool / software.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RiMillo/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Let's get in touch!
+Hit me up on [LinkedIn](https://www.linkedin.com/in/milanir/)!
