@@ -17,7 +17,7 @@ Currently, I am a Post-Doc research fellow at CEREA (ENPC, France :fr:) and part
 As you guessed, I'm passionate about Mathematics and sports and I hope to make a job out of this. I have a special interest for Fluid Dynamics and my dream is to work in a team responsible for the design of a F1 race car :red_car::checkered_flag: or a sailboat :sailboat:.
 
 ## What I can do
-I have a Engineering background (BSc and 2x MSc) with two main axes: mathematics and computer sciences. I like coding. My language of predilection is `C/C++` which I used in numerous scientific projects and for my PhD (hybrid parallelism `MPI x OMP` included).
+I have an engineering background (BSc and 2x MSc) with two main axes: mathematics and computer sciences. I like coding. My language of predilection is `C/C++` which I used in numerous scientific projects and for my PhD (hybrid parallelism `MPI x OMP` included).
 
 I try to learn new stuff every day, currently exploring `python` (statistical analysis, computer vision, I might also dust off some notes from the Data Mining and ML courses at PoliMi) and `GO`.
 
