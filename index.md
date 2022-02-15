@@ -1,4 +1,3 @@
-# Me :v:
 Hi y'all! :wave: On `GitHub` I go by the name of `@RiMillo`, but my real name is Riccardo. I'm :it: and :fr:, currently based in Paris.
 
 ## Resumes
