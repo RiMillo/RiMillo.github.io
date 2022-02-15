@@ -9,9 +9,15 @@ For a detailed *formal* presentation, have a look at my resume:
 * Français :fr: [par ici](./CV_FRA.pdf)
 
 ## What I do
-I have a PhD in Applied Mathematics (Numerical Analysis for Fluid Dynamics) from CERMICS (ENPC, France :fr:) and EDF. I am an alumnus of Politecnico di Milano :it: (Ingegneria Matematica) and École polytechnique :fr:.
+I have obtained two MSc in Engineering/Applied Mathematics from of Politecnico di Milano :it: (Ingegneria Matematica) and École polytechnique :fr:. I have a [PhD](https://tel.archives-ouvertes.fr/tel-03080530) in Applied Mathematics (Numerical Analysis for Fluid Dynamics) from CERMICS (ENPC, France :fr:) and EDF.
+
+<img src="img/solid.gif" alt="Solidification with code_saturne x CDO" width="49%" height="auto" /> <img src="img/Cylinder.jpg" alt="Cylinder wakes with code_saturne x CDO" width="49%" height="auto" />
 
 Currently, I am a Post-Doc research fellow at CEREA (ENPC, France :fr:) and part of the Sciences^2024 program which uses physics and mathematics to give a scientific characterization of some sports and helps athletes in their training on the road towards Paris 2024 Olympic Games. Our focus is archery: find the best arrow for a given atmospheric setting.
+
+<p align="center">
+    <img src="img/simu_post.png" alt="Atmospheric flows in urban zone"  width="90%" height="auto" />
+</p>
 
 ## What makes me dream
 As you guessed, I'm passionate about mathematics and sports and I hope to make a job out of this. I have a special interest for fluid dynamics and my dream is to work in a team responsible for the design of a F1 race car :red_car::checkered_flag: or a sailboat :sailboat:.
