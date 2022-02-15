@@ -1,5 +1,11 @@
+---
+layout: default
+---
+
+Hi y'all! :wave:
+
 # Who I am :v:
-Hi y'all! :wave: On `GitHub` I go by the name of `@RiMillo`, but my real name is Riccardo. I'm :it: and :fr:, currently based in Paris.
+On `GitHub` I go by the name of `@RiMillo`, but my real name is Riccardo. I'm :it: and :fr:, currently based in Paris.
 
 # What I did
 For a detailed *formal* presentation, have a look at my resume:
