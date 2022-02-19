@@ -2,9 +2,15 @@
 layout: default
 ---
 
-Hi y'all! :wave:
+> Considerate la vostra semenza:<br>
+> Fatti non foste a viver come bruti,<br>
+> Ma per seguir virtute e conoscenza.
+>
+> Dante Alighieri, *La Divina Commedia*, Inferno, XXVI
 
 # Who I am :v:
+Hi y'all! :wave:
+
 On `GitHub` I go by the name of `@RiMillo`, but my real name is Riccardo. I'm :it: and :fr:, currently based in Paris.
 
 # What I did
