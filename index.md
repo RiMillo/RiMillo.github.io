@@ -44,7 +44,7 @@ FYI, I like `LaTeX`, too: [spoiler alert: self promotion] checkout this [`GitHub
 As you guessed, I'm passionate about mathematics and sports and I hope to make a job out of this. I have a special interest for fluid dynamics and my dream is to work in a team responsible for the design of a F1 race car :red_car::checkered_flag: or a sailboat :sailboat:.
 
 # What I would like to do
-I'd like to work in the research and development branch of a company as developer of a scientific tool / software. The applications in which I would like to be involved are fluid dynamics and anything that is bio-related or health-driven (e.g. computational conception of new pharmaceutical drugs,...): combining all the three (e.g. hemodynamics) would be just great!
+I'd like to work in the research and development branch of a company as developer of a scientific tool / software. The applications in which I would like to be involved are fluid dynamics and anything that is bio-related or health-driven (e.g. _in silico_ conception of new pharmaceutical drugs,...): combining all the three (e.g. hemodynamics) would be just great!
 
 # Let's get in touch!
 Hit me up on [LinkedIn](https://www.linkedin.com/in/milanir/)! Otherwise, my contact details are in the resume.
