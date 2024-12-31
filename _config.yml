@@ -2,3 +2,5 @@ title: Milani Riccardo - Personal webpage
 theme: jekyll-theme-cayman
 plugins:
   - jemoji
+  - jekyll-github-metada
+  - jekyll-sitemap
