@@ -16,9 +16,9 @@ I'm :it: and :fr:, currently based in Paris.
 
 For a detailed _formal_ presentation, have a look at my resume:
 
-* English :uk: [here](./CV_ENG.pdf)
-* Italiano :it: [qui](./CV_ITA.pdf)
-* Français :fr: [par ici](./CV_FRA.pdf)
+* English :uk: [here](./data/CV_ENG.pdf)
+* Italiano :it: [qui](./data/CV_ITA.pdf)
+* Français :fr: [par ici](./data/CV_FRA.pdf)
 
 # What I do
 I am a research engineer at [ONERA](https://onera.fr), the French aerospace lab.
