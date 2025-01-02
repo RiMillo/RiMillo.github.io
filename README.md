@@ -1,2 +1,2 @@
-# CV GH pages
-Sources for a GitHub Page hosting my CV
+# Personal webpage
+Sources for a GitHub Page hosting my personal webpage.
